@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # Aid-Manager-General-BackEnd-Pruebas
-=======
 # AidManager.API Testing Environment
 
 This document outlines how to run the tests for the AidManager.API backend.
@@ -16,4 +14,3 @@ To run the tests, navigate to the `AidManager.API` directory and run the followi
 ```bash
 dotnet test
 ```
->>>>>>> develop
